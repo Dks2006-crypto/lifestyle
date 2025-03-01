@@ -29,7 +29,7 @@ class="w-full pt-[70px] pb-7">
                 <span class=" textt-[14px] md:text-[16px] text-white" >TRAVEL</span>
                 <h3 class=" text-[21px] md:text-[24px] text-white font-bold">Experience the<br>
                 Saharan Sands</h3>
-                <button class="mt-[100px] md:text-[#b6b6e3] bg-white px-[10px] py-[5px] md:mt-[180px]">
+                <button class="mt-[100px] md:text-[#b6b6e3] bg-white px-[10px] py-[5px] md:mt-[210px]">
                     Resent for $2.29
                 </button>
             </div>
@@ -45,7 +45,7 @@ class="w-full pt-[70px] pb-7">
                 <span class=" text-[14px] md:text-[16px] text-white" >TRAVEL</span>
                 <h3 class="text-[21px] md:text-[24px] text-white font-bold">One Month <br>
                 Sugar Detox</h3>
-                <button class="mt-[100px] md:text-[#b6b6e3] bg-white px-[10px] py-[5px] md:mt-[180px]">
+                <button class="mt-[100px] md:text-[#b6b6e3] bg-white px-[10px] py-[5px] md:mt-[210px]">
                     Resent for $0.99
                 </button></div>
             <div class="col-span-2 row-span-3 col-start-3 row-start-5 py-[30px] pl-[15px] border-none rounded-[10px]  w-full h-full  " style="background-image: url('{{ asset ("storage/image/dom2.jpg") }}');background-position: center; w-full; h-full; background-size: cover; background-repeat: no-repeat; "">
